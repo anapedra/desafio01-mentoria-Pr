@@ -124,3 +124,47 @@ Colocar em prática o aprendizado  teórico de interfaces e suas implementaçõe
 <a href="https://docs.google.com/document/d/1EG9D169szMPGQKsH70VcGKQBkdhZFI-l91a8NXoyaKs/edit">🔗 Visão Geral do negócio e alguns artefatos do projeto 'BLOG'
 </a>
  </p>
+
+<h2>Outros projetos relacionado:</h2>
+
+<p >
+<a href="https://github.com/studygroup-anapedra/desafioDio-relatorio-aws">🔗 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS'
+</a>
+
+<p >
+<a href="https://github.com/anapedra/desafio1-docker-fullCycle">🔗 desafio1-docker-fullCycle'
+</a>
+
+<p >
+<a href="https://github.com/studygroup-anapedra/desafioDIO-GFT-0001?tab=readme-ov-file">🔗 Projeto escola(Em andamento)'
+</a>
+
+<p >
+<a href="https://github.com/studygroup-anapedra/padroes-projeto-dio">🔗 Desafio: padrões de projeto'
+</a>
+
+<p >
+<a href="https://github.com/studygroup-anapedra/desafio03-STdio-iPhone">🔗 Projeto Iphone'
+</a>
+
+<p >
+<a href="https://github.com/anapedra/commerce/commits/main/">🔗 Projeto e-commerce'
+</a>
+
+<p >
+<a href="https://github.com/anapedra/bds04/commits/main/">🔗 Desafio: TDD'
+</a>
+
+<p >
+<a href="https://github.com/anapedra/bds02/commits/main/">🔗 Desafio:TDD'
+</a>
+
+<p >
+<a href="https://github.com/anapedra/bds05/commits/main/">🔗 Desafio: POO,validação,segurança,autenticação,cardinalidade, TDD...'
+</a>
+
+<p >
+<a href="https://github.com/anapedra/bds01">🔗 Desafio: TDD & POO'
+</a>
+
+
